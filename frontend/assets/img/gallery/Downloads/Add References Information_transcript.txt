@@ -1,0 +1,94 @@
+Welcome back in the previous task you work on in putting
+additional information such a skills and languages into your
+resume.
+In this test test number six, we will create a reference
+section on page two of the resume and less three references
+using a table not go to the second page and in empty space
+at the very bottom of the document, going to click once
+so you can find that the cursor moves at the very end here,
+which is the very last empty line of the document.
+Great now, with the cursor there, let's go ahead and type
+in the new section.
+We want to create called references.
+Let's follow the other headings and it's used all caps
+because references is a section just like projects
+or education in our is me.
+Let's give it the same format, have you click on projects
+and you look at the very top and the styles dropped the menu.
+It's using a style called heading one heading one or styles
+are a combination of formats settings.
+So for heading one, it's using a fungible consents font size
+of nine bold format and a text color of blue.
+We wanna play that two references.
+So that's good in highly references and go to the Styles
+menu, and it's click on heading one.
+Great. Now we do want to center.
+The reference is heading to the middle of the page,
+so with reference is still highly highlighted.
+Let's go to the top, right and this.
+Click on this triple dot menu, and we look for the align
+settings and will select center line.
+Great. Now let's click at the end of references to move
+the cursor there.
+Press the enter key wants to move over to the new line,
+and the cursor should be at the left again.
+Now we're going to insert a table, so go to the very top menu
+for insert.
+Click there, navigate to table and hover your mouse
+over the square box until you see a
+three but one configuration and click ones that will apply
+or insert a table from where your cursor was last.
+So now we have a table of three columns or three cellblocks.
+Each Khanum will hold a reference.
+A reference is a personal contact that can vote for your
+skills and work experience.
+If you are a potential candidate for a job.
+A manager or HR representative will call your references
+to confirm the information and resume.
+A resume should have a minimum of three references listed.
+I remember.
+Always ask your references first before you list them.
+So if you have your references in mine, go ahead and add your
+1st 1 here.
+If you don't, you can go ahead and follow along with me
+and we'll add one.
+Glenn enter in broad meals.
+Exline type in 19 Manager Next line is her name
+of the company he's working for and his PMO address.
+Use at gmail dot com and would give him a phone number.
+Do 95553 and two 690 And there we have our first reference.
+Now, once you're done adding your first reference, go ahead
+and add additional references.
+Two more in the next column, one reference for here
+and another reference if we're here now again,
+If you don't have any, let's go ahead and similarly this
+by copying this reference right click.
+Copy that, and it's paste it in these empty columns, right
+click paste and right click, and they're on paste.
+And now we have three references.
+Now If you do need more time to entering your references, go
+ahead and pause this video.
+Now, once you're done adding your references, let's go ahead
+and get rid of the borderlines so that it looks a lot more
+professional.
+So I'm going to hold down my mouse key.
+I left click hold down and drag over to select the entire
+table. And once those tell box are all selected, you see
+a drop down arrow key here at the top.
+Right? Click on that once, and this will allow you to select
+the borders were gonna select this option which says, Select
+all porters Click that once and the other borderlines air
+highlighted or selected.
+I'm gonna go to the very top to see some border option menus
+here I'm gonna sleep border with, and we're going to give it
+a zero point size which will remove the porter lines.
+Click on that once and you can click outside the table
+and you have not removed the line and also de selected
+the border.
+Great. You are now done with task number six.
+You've added three references using a table and turned out
+the border lines of the table for more professional Look,
+if you need more time to add a references, you can still
+posits video.
+But in the next task, we will work on adding page numbers.
+Do the resume.

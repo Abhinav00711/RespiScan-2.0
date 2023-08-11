@@ -1,0 +1,17 @@
+    
+TY  - JOUR 
+AU  - Tariq, Muhammad Usman
+AU  - Babar, Muhammad
+AU  - Poulin, Marc
+AU  - Khattak, Akmal Saeed
+AU  - Alshehri, Mohammad Dahman
+AU  - Kaleem, Sarah
+PY  - 2021    
+M3  - Original Research     
+TI  - Human Behavior Analysis Using Intelligent Big Data Analytics   
+JO  - Frontiers in Psychology  
+UR  - https://www.frontiersin.org/articles/10.3389/fpsyg.2021.686610    
+VL  - 12      
+SN  - 1664-1078
+N2  - Intelligent big data analysis is an evolving pattern in the age of big data science and artificial intelligence (AI). Analysis of organized data has been very successful, but analyzing human behavior using social media data becomes challenging. The social media data comprises a vast and unstructured format of data sources that can include likes, comments, tweets, shares, and views. Data analytics of social media data became a challenging task for companies, such as Dailymotion, that have billions of daily users and vast numbers of comments, likes, and views. Social media data is created in a significant amount and at a tremendous pace. There is a very high volume to store, sort, process, and carefully study the data for making possible decisions. This article proposes an architecture using a big data analytics mechanism to efficiently and logically process the huge social media datasets. The proposed architecture is composed of three layers. The main objective of the project is to demonstrate Apache Spark parallel processing and distributed framework technologies with other storage and processing mechanisms. The social media data generated from Dailymotion is used in this article to demonstrate the benefits of this architecture. The project utilized the application programming interface (API) of Dailymotion, allowing it to incorporate functions suitable to fetch and view information. The API key is generated to fetch information of public channel data in the form of text files. Hive storage machinist is utilized with Apache Spark for efficient data processing. The effectiveness of the proposed architecture is also highlighted.
+ER  - 
