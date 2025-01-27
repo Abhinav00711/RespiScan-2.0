@@ -1,7 +1,7 @@
 # RespiScan-2.0
 RespiScan 2.0 is a groundbreaking project aimed at enhancing lung cancer prediction through two innovative modes of analysis. Leveraging the power of Intel oneAPI, RespiScan 2.0 offers a comprehensive approach to early detection and prevention of lung cancer.
 
-![RespiScan Logo](https://github.com/Abhinav00711/Abhinav00711.github.io/blob/main/files/RespiScan.png)
+![RespiScan Logo](https://github.com/Abhinav00711/RespiScan-2.0/blob/main/frontend/RespiScan.png)
 
 ## INSPIRATION ![Inspiration](https://user-images.githubusercontent.com/72274851/218500470-ec078b99-0a50-4b06-a2df-c09e47ecc187.png)
 
